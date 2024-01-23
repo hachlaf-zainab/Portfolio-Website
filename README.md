@@ -1,6 +1,6 @@
-12247, BERLIN (Germany)
-(+49) 15779745486
-hachlaf.zainab@gmail.com
+- 12247, BERLIN (Germany)
+- (+49) 15779745486
+- hachlaf.zainab@gmail.com
 
 
 ## Zainab Hachlaf
@@ -8,14 +8,17 @@ Data analyst with a background in customer support and work force management, sk
 
 
 #### SKILLS
-**Cloud Computing
+Cloud Computing
 - Demonstrated hands-on expertise in AWS EMR, S3 Bucket, Athena, Glue, Redshift, Cloud SQL, Azure Data Factory, Azure Blob Storage, Azure Databricks, Azure Stream Analytics, and Azure Data Lake Storage Gen2.
 - Applied these technologies collaboratively to architect, implement, and optimize comprehensive cloudbased data processing and analytics solutions.
-**Big Data Management & Engineering
+  
+Big Data Management & Engineering
 - Applied extensive hands-on experience in Airflow for DAG-based task scheduling, PySpark and dbt for efficient data transformation, Hadoop for distributed data processing, and Kafka for real-time data streaming.
+  
 Data Analysis & Visualization
-- Applied proficiency in Python and SQL for data extraction, transformation, and analysis. 
+- Applied proficiency in Python and SQL for data extraction, transformation, and analysis.
 - Leveraged Tableau and Power BI to create insightful dashboards, facilitating data-driven decision-making.
+  
 Machine Learning
 - Applied hands-on expertise in time-series analysis, regression, clustering, deep learning, and natural language processing (NLP) to develop and implement machine learning models.
 
@@ -38,15 +41,18 @@ FEBRUARY 2023 - JANUARY 2024
 - Implemented best practices for code deployment, monitoring, and incident response in cloud environments.
 
 ### PROJECTS
-GameCo - Analysis of global video game sales
-Medical Staffing - Preparing for flu season in the U.S.
-Rockbuster Stealth - Business strategy for an online video rental company
-Instacart - Marketing strategy for an online grocery store
-Pig E. Bank - Anti-money laundering projects at a global bank
-World Happiness Report - Analysing states well-being
-EDUCATION
+1. GameCo - Analysis of global video game sales
+2. Medical Staffing - Preparing for flu season in the U.S.
+3. Rockbuster Stealth - Business strategy for an online video rental company
+4. Instacart - Marketing strategy for an online grocery store
+5. Pig E. Bank - Anti-money laundering projects at a global bank
+6. World Happiness Report - Analysing states well-being
+
+
+### EDUCATION
 Rhine-Waal Uiversity, Kleve (DE)— B.A. International Relations 
 SEPTEMBER 2014 - MARCH 2019
-LANGUAGES
-Mothertoungues: Italian, Moroccan
-Others: English, German
+
+### LANGUAGES
+- Mothertoungues: Italian, Moroccan
+- Others: English, German
